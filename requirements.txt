@@ -1,0 +1,10 @@
+pandas
+beautifulsoup4
+html5lib
+wheel
+pip
+sqlalchemy
+lxml
+psycopg2-binary
+ipython
+requests
